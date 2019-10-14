@@ -15,6 +15,8 @@ https://www.inc.com/guides/writing-marketing-plan.html
 
 https://www.mplans.com/restaurant_marketing_plan/marketing_vision_fc.php
 
+http://www.strategicbusinessinsights.com/vals/presurvey.shtml
+
 
 
 

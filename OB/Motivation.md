@@ -25,41 +25,33 @@ Objectives: To gain insight into human motivation from the different perspective
 That Maslow establishes that you cannot aspire to higher-level needs until your lower-level needs are fulfilled. In reality, people can pursue various levels of needs simultaneously.
 
 ###### McClelland's Need
-Need of achievement
-Need of power
-Need of affiliation
+- Need of achievement
+- Need of power
+- Need of affiliation
+
 These need happen simultaneously but in varying degree. This has been proved emirically.
 
 #### External drivers - The nature of our job
-Motivation vs Hygiene factor(Herzberg)
-Job Characteristics (Hackman and Oldham)
+- Motivation vs Hygiene factor(Herzberg)
+- Job Characteristics (Hackman and Oldham)
+
 ###### Herzberg's Two factor theory
 Motivators  
 
- (a) Intrinsic Factors
- (b) Satisfaction if present
- (c) No satisfaction if absent
+ - Intrinsic Factors
+ - Satisfaction if present
+ - No satisfaction if absent
  
 Hygiene Factros
 
- (a) Extrinsic Factors
- (b) No satisfaction if present
- (c) Dissatisfaction if absent
+ - Extrinsic Factors
+ - No satisfaction if present
+ - Dissatisfaction if absent
  
- ###### Job Characteristics Model
+ ###### Hackman and Oldham's Job Characteristics Model -> Job Characteristics Model
  1. Core Job Dimensions
  2. Psychological States
  3. Outcomes
 
- - High intrinsic motivation
- - High Job Performance
- - High Job Satisfaction
- - Low ansenteeism & turnover
-     
- => Meaningfulness of work 
- => Responsibility of outcome 
- => Knowledge of result
  We want to be high on all these three parameters. What do we want our jobs to be look like? For managers, how do you design your work so that people are motivated.
- 
- ###### Hackman and Oldham's Job Characteristics Model
- ![job_characteristics_mode](https://github.com/ntiwari78/misc/blob/master/OB/Job_Characteristics_Model.jpg)
+  ![job_characteristics_mode](https://github.com/ntiwari78/misc/blob/master/OB/Job_Characteristics_Model.jpg)

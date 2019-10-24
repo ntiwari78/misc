@@ -55,3 +55,5 @@ Hygiene Factros
 
  We want to be high on all these three parameters. What do we want our jobs to be look like? For managers, how do you design your work so that people are motivated.
   ![job_characteristics_mode](https://github.com/ntiwari78/misc/blob/master/OB/Job_Characteristics_Model.jpg)
+  ![how_are_we_motivated](https://github.com/ntiwari78/misc/blob/master/OB/how_are_we_motivated.jpg)
+  ![equity_theory_adams](https://github.com/ntiwari78/misc/blob/master/OB/Equity_theory_adams.jpg)
